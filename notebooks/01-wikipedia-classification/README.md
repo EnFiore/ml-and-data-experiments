@@ -1,8 +1,3 @@
-
-# PROGETTI VARI DI ML E DATA ANALYSIS
-## 1. Spark Data Analysis Wikipedia article
-Progetto finale del Corso sui Big data di profession AI del master in Data Science
-
 # Analisi di Wikipedia con Spark
 Progetto di analisi esplorativa e classificazione automatica di articoli Wikipedia, sviluppato in **PySpark** su **Databricks**.
 
