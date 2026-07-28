@@ -1,4 +1,5 @@
-# Spark-Data-Analysis-Wikipedia-article
+# PROGETTI VARI DI ML E DATA ANALYSIS
+#1. Spark-Data-Analysis-Wikipedia-article
 Progetto finale del Corso sui Big data di profession AI del master in Data Science
 
 Il progetto ha due obiettivi principali su un dataset di articoli Wikipedia suddivisi per categoria tematica (Cultura, Economia, Medicina, Tecnologia, Politica, Scienza, ecc.):
